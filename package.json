@@ -1,0 +1,22 @@
+{
+  "name": "apple_calc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SreejaS8/fun-calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SreejaS8/fun-calculator/issues"
+  },
+  "homepage": "https://github.com/SreejaS8/fun-calculator#readme",
+  "description": "",
+  "devDependencies": {
+    "electron": "^35.0.0"
+  }
+}
